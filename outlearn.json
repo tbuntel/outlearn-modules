@@ -5,7 +5,7 @@
     {
       "name" : "CodiscopeTest",
       "title" : "Some Codiscope content",
-      "description" : "Just a test of a path",
+      "description" : "Just another test of a path",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
