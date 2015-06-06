@@ -3,9 +3,9 @@
 
   "paths" : [
     {
-      "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
-      "description" : "Fastest Way to Publish a Path",
+      "name" : "CodiscopeTest",
+      "title" : "Some Codiscope content",
+      "description" : "Just a test of a path",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
