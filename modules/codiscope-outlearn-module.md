@@ -12,9 +12,13 @@
 
 <!-- @section, "title": "A1-Injection" -->
 
-# Injection
+# Bugs vs Flaws
 
-This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.
+Software is a complex system of components, and inevitably contains defects. Some of these defects constitute security vulnerabilities that, in turn, introduce risk.
+
+Security defects are divided into two different types: bugs and flaws.
+
+Bugs are implementation errors found in the code. Flaws are design errors relating to the software architecture.
 
 ![OWASP screenshot](https://codiscope.com/wp-content/uploads/2015/01/owasp-4.jpg)
 
