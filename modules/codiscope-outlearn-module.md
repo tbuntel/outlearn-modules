@@ -22,11 +22,8 @@ Bugs are implementation errors found in the code. Flaws are design errors relati
 
 ![OWASP screenshot](https://codiscope.com/wp-content/uploads/2015/01/owasp-4.jpg)
 
+< !-- @task, "text" : "Introduce a flaw into some Software."-->
 
-
-GitHub-flavored markdown will work just fine, and you can preview your files in your favorite text editor or Markdown preview tool before uploading them to Outlearn for final proof-reading.
-
-If you want to enrich your content with more features, this sample module has a few examples, including the Unfurled Link above, and the interactive features described in the next section.
 
 > Block quotes get special styling on Outlearn. They turn into highlight boxes.
 
