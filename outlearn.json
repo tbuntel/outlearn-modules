@@ -9,7 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "my-outlearn-module"},
+        {"module" : "codiscope-outlearn-module"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -17,7 +17,7 @@
 
   "modules" : [
     {
-      "olm" : "./modules/my-outlearn-module.md"
+      "olm" : "./modules/codiscope-outlearn-module.md"
     }
   ],
 

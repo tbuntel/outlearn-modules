@@ -10,17 +10,15 @@
 }
 -->
 
-<!-- @section -->
+<!-- @section, "title": "A1-Injection" -->
 
-# What is this page?
+# Injection
 
 This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.
 
-### Using Markdown
+![OWASP screenshot](https://codiscope.com/wp-content/uploads/2015/01/owasp-4.jpg)
 
-You may have already used Markdown. It's an awesome format for technical publishing. If you need a refresher, GitHub has a great overview.
 
-<!-- @link, "url" : "https://help.github.com/articles/markdown-basics/", "text": "I know enough about Markdown." -->
 
 GitHub-flavored markdown will work just fine, and you can preview your files in your favorite text editor or Markdown preview tool before uploading them to Outlearn for final proof-reading.
 
